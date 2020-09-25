@@ -26,7 +26,7 @@
     width: 100px;
     height: 100px;
     background: red;
-    transition: opacity .5s;
+    transition:.5s;
 }
 .ex4-square:hover{
   opacity: 5s;
